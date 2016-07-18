@@ -1,0 +1,10 @@
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/optimized/
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/bin/iPhoneSimulator/Debug/NavBarTrans.exe.mdb
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/bin/iPhoneSimulator/Debug/NavBarTrans.exe
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/NavBarTrans.exe
+/Users/igorride/Downloads/recipes-master/ios/content_controls/web_view/load_a_web_page/obj/iPhoneSimulator/Debug/NavBarTrans.exe.mdb
